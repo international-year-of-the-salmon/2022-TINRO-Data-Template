@@ -1,3 +1,4 @@
 # Changelog
 
-Original data date format was changed in excel so that it was all in 24 hour time.
+- Original data date format was changed in excel so that it was all in 24 hour time.
+- Rosette data Station_Event_ID was changed so that it followed the correct format (IYS2022-Vessel-zone-station-sample_type) with the max depth appended to match the SAMPLING EVENT INFO table. 
