@@ -1,3 +1,8 @@
+# 2023-02-23 [unreleased]
+
+Tab 6. SPECIMEN INFO: Row 256 - changed Sock-164 to Sock-165 in the DNA column (as per Aleksey Somov)
+Tab 6. SPECIMEN INFO: Row 257 - changed SOck-164 to Sock-166 in the DNA column (as per Aleksey Somov). 
+
 # Changelog
 
 - Original data date format was changed in excel so that it was all in 24 hour time.
